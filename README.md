@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">An advertiser turned developer from Southern California</h3>
 
-- 🌱 I’m currently learning **python, unit testing, and stenography.**
+- 🌱 I’m currently learning **react native, unit testing, and golf.**
 
-- 👨‍💻 All of my projects are available at [https://www.andrewdaotran.com/](https://www.andrewdaotran.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-andrewdaotran.vercel.app/)
 
-- 💬 Ask me about **React and TailwindCSS.**
+- 💬 Ask me about **React, TailwindCSS and TypeScript.**
 
 - 📫 How to reach me **andrewdaotran@gmail.com**
 
 - ⚡ Fun fact **I love Korean Pop and am a die hard Phoenix Suns fan.**
+
+- 🏅 My goals in life include achieving a software development role, becoming a scratch golfer, and having children of my own
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
